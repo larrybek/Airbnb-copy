@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="Here is a description of the applicable page">
+
+    <title>Cookin</title>
+
+    
+    <link type="text/css" rel="stylesheet" href="css/jquery-bootstrap-datepicker.css">
+    <link type="text/css" rel="stylesheet" href="css/screen.css">
+    <link href='https://fonts.googleapis.com/css?family=Comfortaa:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Quicksand:400,300,700' rel='stylesheet' type='text/css'>
+</head>
+<body class="homepage">
+	<div class="mega-wrapper">
+		<section class="how-it-work">
+			<i class="fa fa-times"></i>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="how-it-works__image stap_1"></div>
+						<h3>Discover Amazing Places</h3>
+						<p>Find hosts with extra rooms, entire homes, and unique accommodations like castles and igloos.</p>
+					</div>
+					<div class="col-sm-4">
+						<div class="how-it-works__image stap_2"></div>
+						<h3>Book a Stay</h3>
+						<p>Connect with hosts, confirm travel dates, and pay—all through Airbnb’s trusted services.</p>
+					</div>
+					<div class="col-sm-4">
+						<div class="how-it-works__image stap_3"></div>
+						<h3> Travel</h3>
+						<p> Feel at home, anywhere you go in the world. <a href="">Learn more</a> about how to travel on Airbnb.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-12">
+
+					</div>
+				</div>
+			</div>
+		</section>
+		<ul class="main-navigation-menu visible-xs">
+			<li><a href="">Home</a></li>
+			<li><a href="">Download the app</a></li>
+			<li class="active"><a href="">Sign uo</a></li>
+			<li><a href="">Discover</a></li>
+			<li><a href="">How it work</a></li>
+		</ul>
+		<section class="resp-search-page height ">
+			<div class="search-page-height">
+				<div class="search-page-header">
+					<span>Search</span>
+					<i class="fa fa-times"></i>
+				</div>
+				<form>
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="form-group">
+									<input type="text" placeholder="Where are you going?">
+								</div>
+							</div>
+							<div class="col-xs-6">
+								<div class="form-group">
+									<input type="text" class="datepicker" placeholder="Check In">
+								</div>
+							</div>
+							<div class="col-xs-6">
+								<div class="form-group">
+									<input type="text" class="datepicker" placeholder="Check Out">
+								</div>
+							</div>
+							<div class="col-xs-12">
+								<div class="form-group">
+									<select>
+										<option>1 guest</option>
+										<option>2 guest</option>
+										<option>3 guest</option>
+										<option>4 guest</option>
+										<option>5 guest</option>
+									</select>
+								</div>
+							</div>
+							<div class="col-xs-12">
+								<div class="border">
+									<div class="form-group">
+										<div class="checkbox-box">
+											<!-- <label for="checkbox2" class="checkbox-label"></label> -->
+											<div class="checkbox-style">
+				        						<input value="1" id="checkbox2" type="checkbox" name="">
+				        						<label><i class="fa fa-home"></i>Entire home/apt</label>
+				        					</div>
+			        					</div>
+									</div>
+									
+									<div class="form-group">
+										<div class="checkbox-box">
+											<!-- <label for="checkbox3" class="checkbox-label"></label> -->
+											<div class="checkbox-style">
+				        						<input value="1" id="checkbox3" type="checkbox" name="">
+				        						<label><i class="fa fa-home"></i>Private room</label>
+				        					</div>
+			        					</div>
+									</div>
+								
+									<div class="form-group">
+										<div class="checkbox-box">
+											<!-- <label for="checkbox5" class="checkbox-label"></label> -->
+											<div class="checkbox-style">
+				        						<input value="1" id="checkbox5" type="checkbox" name="">
+				        						<label><i class="fa fa-home"></i>Shared room</label>
+				        					</div>
+			        					</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-xs-12">
+								<button>Find a place</button>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</section>
+		<div class="wrapper">
+			<header class="home-page-header">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-sm-12 visible-xs">
+							<a class="iphone-menu visible-sm visible-xs"><i class="fa fa-bars"></i></a>
+							<a class="logo"><img src="img/airbnb_logo_belo.png"></a>
+						</div>
+						<div class="col-sm-12 hidden-xs ">
+							<a class="logo"><img src="img/airbnb_logo_belo.png"></a>
+							
+							<ul>
+								<li><a href=""><span class="btn">Become a Host</span></a></li>
+								<li>
+									<div class="dropdown">
+									  	<a id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									    	Help
+									  	</a>
+									  	<ul class="dropdown-menu" aria-labelledby="dLabel">
+									    	<li></li>
+									    	<li></li>
+									  	</ul>
+									</div>
+								</li>
+								<li><a data-toggle="modal" data-target="#myModal" href="">Sign Up</a></li>
+								<li><a data-toggle="modal" data-target="#myModal1" href="">Log In</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</header>
+			
+
+	        <section class="video-baner clearfix">
+				<div class="banner-bg">
+    				<video preload="auto" loop="loop" id="pretzel-video" class="video-playing" autoplay>
+					  	<source src="https://a0.muscache.com/airbnb/static/Paris-P1-1.mp4" type="video/mp4">
+					  	<source src="https://a0.muscache.com/airbnb/static/Paris-P1-0.webm" type="video/webm">
+					</video>
+				</div>
+				<div class="banner-content">
+    				<div class="banner-body clearfix">
+    					<div class="banner-text">
+    						<div class="container-fluid">
+		        				<div class="row">
+		        					<div class="col-sm-12">
+		        						<h2>Welcome home</h2>
+		        						<p>Rent unique places to stay from local hosts in 190+ countries.</p>
+		        						<a class="btn hidden-xs" id="how_work">How It Works</a>
+		        						<div class="resp-search-div visible-xs">
+		        							<p>Where do you want to go?</p>
+		        							<i class="fa fa-search"></i>
+		        						</div>
+		        					</div>
+		        				</div>
+		        			</div>
+		        		</div>
+    				</div>
+    				<div class="banner-footer hidden-xs">
+    					<div class="container-fluid">
+		        			<div class="row">
+		        				<div class="col-sm-12">
+		        					<div class="banner-footer-cont">
+			        					<form>
+			        						<div class="form-group">
+			        							<input type="text" placeholder="Where do you want to go?">
+			        						</div>
+			        						<div class="datepicker-box">
+				        						<div class="form-group">
+												    <input type="text" class="datepicker" placeholder="Check In">
+												</div>
+												<i class="fa fa-long-arrow-right"></i>
+												<div class="form-group">
+												    <input type="text" class="datepicker" placeholder="Check Out">
+												</div>
+											</div>
+											<div class="form-group">
+												<select>
+													<option>1 Guest</option>
+													<option>2 Guest</option>
+													<option>3 Guest</option>
+													<option>4 Guest</option>
+												</select>
+											</div>
+											<button class="serach-button">Search</button>
+			        					</form>
+			        				</div>
+		        				</div>
+		        			</div>
+		        		</div>
+    				</div>
+				</div>
+    		</section>
+    		<section class="host-banner">
+    			<div class="container bg-white">
+    				<div class="row">
+    					<div class="col-sm-8">
+    						<ul class="bxslider">
+							  <li><img src="img/having-dinner-42ce249609ed4a0c755bd98f4625c828.jpg" /></li>
+							  <li><img src="img/green-doors-da92547ad2e02558af61a61405d4a414.jpg" /></li>
+							  <li><img src="img/people-talking-c3fadd1c9220cf4796a8406f1a727b7b.jpg" /></li>
+							</ul>
+    					</div>
+    					<div class="col-sm-4">
+    						<div class="host-banner-content">
+    							<div class="text-box">
+    								<h3>Hosting opens up a world of opportunity</h3>
+    								<p>Earn money sharing your extra space with travelers.</p>
+    								<a href="">See What You Can Earn</a>
+    							</div>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</section>
+    		<section class="title-section">
+    			<div class="container">
+    				<div class="row">
+    					<div class="col-sm-12">
+    						<div class="title-row">
+    							<h3>Explore the world</h3>
+    							<p>See where people are traveling, all around the world.</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</section>
+    		<section class="explore-world">
+    			<div class="container bg-white">
+    				<div class="row">
+    					<div class="col-md-8 col-sm-12">
+	    					<div class="descovery-box" style="background-image: url('img/85.jpg');">
+	    						<a href="">
+	    							<div class="descovery-box-cont">
+	    								<h4>New York</h4>
+	    							</div>
+	    						</a>
+	    					</div>
+	    				</div>
+	    				<div class="col-md-4 col-sm-6">
+	    					<div class="descovery-box" style="background-image: url('img/0c74c9b7_original.jpg');">
+	    						<a href="">
+	    							<div class="descovery-price">
+	    								<span><sup>$</sup>231</span>
+	    							</div>
+	    							<div class="descovery-box-cont">
+	    								<div class="media-photo-round">
+	    									<img src="img/original.jpg" class="">
+	    								</div>
+	    								<h5>Hosted by Gerard & Darlene</h5>
+	    								<span>Bilgola Beach</span>
+	    							</div>
+	    						</a>
+	    					</div>
+	    				</div>
+	    				<div class="col-md-4 col-sm-6">
+	    					<div class="descovery-box" style="background-image: url('img/beach_1x1.jpg');">
+	    						<a href="">
+	    							<div class="descovery-box-cont">
+	    								<h4>Get some sun in Hawaii</h4>
+	    							</div>
+	    						</a>
+	    					</div>
+	    				</div>
+	    				<div class="col-md-4 col-sm-6">
+	    					<div class="descovery-box" style="background-image: url('img/396.jpg');">
+	    						<a href="">
+	    							<div class="descovery-box-cont">
+	    								<h4>Paris</h4>
+	    							</div>
+	    						</a>
+	    					</div>
+	    				</div>
+	    				<div class="col-md-4 col-sm-6">
+	    					<div class="descovery-box" style="background-image: url('img/228.jpg');">
+	    						<a href="">
+	    							<div class="descovery-box-cont">
+	    								<h4>Barcelona</h4>
+	    							</div>
+	    						</a>
+	    					</div>
+	    				</div>
+	    				<div class="col-md-4 col-sm-6">
+	    					<div class="descovery-box" style="background-image: url('img/7d58d55d_original.jpg');">
+	    						<a href="">
+	    							<div class="descovery-price">
+	    								<span><sup>$</sup>231</span>
+	    							</div>
+	    							<div class="descovery-box-cont">
+	    								<div class="media-photo-round">
+	    									<img src="img/original1.jpg" class="">
+	    								</div>
+	    								<h5>Hosted by Peter & James</h5>
+	    								<span>London</span>
+	    							</div>
+	    						</a>
+	    					</div>
+	    				</div>
+	    				<div class="col-sm-6 visible-sm">
+	    					<div class="descovery-box" style="background-image: url('img/275.jpg');">
+	    						<a href="">
+	    							<div class="descovery-box-cont">
+	    								<h4>San Francisco</h4>
+	    							</div>
+	    						</a>
+	    					</div>
+	    				</div>
+	    				<div class="col-md-8 col-sm-12">
+	    					<div class="descovery-box" style="background-image: url('img/42.jpg');">
+	    						<a href="">
+	    							<div class="descovery-box-cont">
+	    								<h4>London</h4>
+	    							</div>
+	    						</a>
+	    					</div>
+	    				</div>
+	    				<div class="col-md-4 hidden-sm hidden-xs">
+	    					<div class="descovery-box" style="background-image: url('img/275.jpg');">
+	    						<a href="">
+	    							<div class="descovery-box-cont">
+	    								<h4>San Francisco</h4>
+	    							</div>
+	    						</a>
+	    					</div>
+	    				</div>
+	    				<div class="col-md-4 col-sm-6">
+	    					<div class="descovery-box" style="background-image: url('img/94.jpg');">
+	    						<a href="">
+	    							<div class="descovery-box-cont">
+	    								<h4>Berlin</h4>
+	    							</div>
+	    						</a>
+	    					</div>
+	    				</div>
+	    				<div class="col-md-4 col-sm-6">
+	    					<div class="descovery-box" style="background-image: url('img/romantic_1x1.jpg');">
+	    						<a href="">
+	    							<div class="descovery-box-cont">
+	    								<h4>Fall in love in Budapest</h4>
+	    							</div>
+	    						</a>
+	    					</div>
+	    				</div>
+    				</div>
+    			</div>
+    		</section>
+    		<section class="video-slide-section">
+				<ul class="bxslider">
+				  	<li>
+				  		<div class="your-home-banner">
+				  			<div class="container height">
+			    				<div class="row height">
+			    					<div class="col-sm-6 col-sm-offset-3 height">
+			    						<div class="text-box">
+			    							<h2>Your Home, Everywhere</h2>
+			    							<p>On Airbmb, every vacation rental feels like home. Find everything from luxury villas to family friendly apartments.</p>
+			    							<a class="btn">Start Exploring</a>
+			    						</div>
+			    					</div>
+			    				</div>
+			    			</div>
+				  		</div>
+				  	</li>
+				  	<li>
+				  		<div class="your-home-banner">
+				  			<div class="container height">
+			    				<div class="row height">
+			    					<div class="col-sm-6 col-sm-offset-3 height">
+			    						<div class="text-box">
+			    							<h2>Your Home, Everywhere</h2>
+			    							<p>On Airbmb, every vacation rental feels like home. Find everything from luxury villas to family friendly apartments.</p>
+			    							<a class="btn">Start Exploring</a>
+			    						</div>
+			    					</div>
+			    				</div>
+			    			</div>
+				  		</div>
+				  	</li>
+				</ul>	
+    		</section>
+    		<section class="title-section">
+    			<div class="container">
+    				<div class="row">
+    					<div class="col-sm-12">
+    						<div class="title-row">
+    							<h3>Our community</h3>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</section>
+    		<section class="community-section">
+    			<div class="container-fluid">
+    				<div class="row">
+    					<div class="col-md-3 col-sm-6">
+    						<a class="community-box creat-box">
+    							<div class="community-creat-cont">
+	    							<img class="creat-logo" src="img/create-logo2.png">
+	    							<img src="img/create-img-bd.png">
+	    							<h3>Make Airbnb yours</h3>
+	    							<p>Create your symbol, Tell your story</p>
+	    						</div>
+    						</a>
+    					</div>
+    					<div class="col-md-3 col-sm-6">
+    						<a class="community-box" style="background-image: url('img/traveling.jpg');">
+
+    							<div class="community-box-cont" >
+    								<span class="community-card__header travel">Traveling</span>
+	    							<!-- <img class="bg-img" src="img/"> -->
+	    							<div class="text-box">
+	    								<h3>Alice & Chris</h3>
+	    								<p>Across an ocean or across town, Alice & Chris are always in search of local experiences. </p>
+	    								<span>Learn more about travel on Airbnb.</span>
+	    							</div>
+	    						</div>
+    						</a>
+    					</div>
+    					<div class="col-md-3 col-sm-6">
+    						<a class="community-box" style="background-image: url('img/business.jpg');">
+    							<div class="community-box-cont">
+    								<span class="community-card__header business-travel">Business Travel</span>
+	    							<div class="text-box get-started">
+	    								<h3>Airbnb for Business</h3>
+	    								<p>Feel at home, wherever your work takes you.</p>
+	    								<span>Get your team on Airbnb.</span>
+	    							</div>
+	    						</div>
+    						</a>
+    					</div>
+    					<div class="col-md-3 col-sm-6">
+    						<a class="community-box" style="background-image: url('img/hosting.jpg');">
+    							<div class="community-box-cont">
+    								<span class="community-card__header hosting">Hosting</span>
+	    							<div class="text-box">
+	    								<h3>Nina</h3>
+	    								<p>A professional photographer, Nina loves helping guests explore Shanghai’s arts scene.</p>
+	    								<span>Learn more about hosting on Airbnb.</span>
+	    							</div>
+	    						</div>
+    						</a>
+    					</div>
+    				</div>
+    			</div>
+    		</section>
+		</div>
+
+		
+		<footer class="footer">
+		    <div class="container">
+		        <div class="row">
+		        	<div class="col-md-3 col-md-offset-1">
+		        		<form>
+		        			<div class="form-group">
+		        				<select>
+		        					<option>Bahasa Indonesia</option>
+		        					<option>Bahasa Melayu</option>
+		        					<option>Català</option>
+		        					<option>Dansk</option>
+		        				</select>
+		        			</div>
+		        			<div class="form-group">
+		        				<select>
+		        					<option>Bahasa Indonesia</option>
+		        					<option>Bahasa Melayu</option>
+		        					<option>Català</option>
+		        					<option>Dansk</option>
+		        				</select>
+		        			</div>
+		        		</form>
+		        	</div>
+		        	<div class="col-md-2 col-md-offset-1 hidden-sm hidden-xs">
+		        		<h5>Company</h5>
+		        		<ul class="list-layout">
+					        <li><a href="">About</a></li>
+					        <li><a href="">Careers</a></li>
+					        <li><a href="">Press</a></li>
+					        <li><a href="">Blog</a></li>
+					        <li><a href="">Help</a></li>
+					        <li><a href="">Policies</a></li>
+					        <li><a href="">Disaster Response</a></li>
+					        <li><a href="">Terms &amp; Privacy</a></li>
+					    </ul>
+		        	</div>
+		        	<div class="col-md-2 hidden-sm hidden-xs">
+		        		<h5>Discover</h5>
+		        		<ul class="list-layout">
+					        <li><a href="">Trust &amp; Safety</a></li>
+					        <li><a href="">Travel Credit</a></li>
+					        <li><a href="">Gift Cards</a></li>
+					        <li><a href="">Airbnb Picks</a></li>
+					        <li><a href="">Mobile</a></li>
+					        <li><a href="">Airbnb Action</a></li>
+					        <li><a href="">Business Travel</a></li>
+					        <li><a href="">Site Map</a></li>
+					    </ul>
+		        	</div>
+		        	<div class="col-md-2 hidden-sm hidden-xs">
+		        		<h5>Hosting</h5>
+		        		<ul class="list-layout">
+					        <li><a href="">Why Host</a></li>
+					        <li><a href="">Hospitality</a></li>
+					        <li><a href="">Responsible Hosting</a></li>
+					        <li><a href="">Home Safety</a></li>
+					    </ul>
+		        	</div>
+		        </div>
+		        <div class="row">
+		        	<div class="col-sm-12">
+		        		<div class="footer-soc">
+		        			<h5>Join Us On</h5>
+		        			<ul>
+		        				<li><a href=""><i class="fa fa-facebook"></i></a></li>
+		        				<li><a href=""><i class="fa fa-google-plus"></i></a></li>
+		        				<li><a href=""><i class="fa fa-twitter"></i></a></li>
+		        				<li><a href=""><i class="fa fa-linkedin"></i></a></li>
+		        				<li><a href=""><i class="fa fa-pinterest"></i></a></li>
+		        				<li><a href=""><i class="fa fa-youtube-play"></i></a></li>
+		        				<li><a href=""><i class="fa fa-instagram"></i></a></li>
+		        			</ul>
+		        			<span>© Airbnb, Inc.</span>
+		        		</div>
+		        	</div>
+		        </div>
+		    </div>
+		</footer>
+	</div>
+	<script type="text/javascript" src="js/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/scripts.js"></script>
+	<!-- // <script type="text/javascript" src="js/bootstrap-datepicker.js"></script> -->
+	<script type="text/javascript" src="js/jquery.bxslider.js"></script>
+	<script type="text/javascript" src="js/jquery-ui.js"></script> 
+	<script>
+		$('.bxslider').bxSlider({
+		  	auto: true,
+		  	autoControls: true,
+		  	pause: 5000
+		});
+		
+	    $('.banner-footer .datepicker').datepicker({
+	        numberOfMonths: 2,
+	        dateFormat:'yy-mm-dd',
+	        
+	    });
+	    $('.resp-search-page .datepicker').datepicker({
+	        numberOfMonths: 1,
+	        dateFormat:'yy-mm-dd',
+	        
+	    })
+
+	</script>
+	<!-- modal Sign up-->
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	  	<div class="modal-dialog" role="document">
+	    	<div class="modal-content">
+	      		<div class="modal-body">
+	        		<a href="" class="face-button modal-btn clearfix">
+	        			<i class="fa fa-facebook"></i>
+	        			<span>Log in with Facebook</span>
+	        		</a>
+	        		<a href="" class="google-button modal-btn clearfix">
+	        			<i class=""></i>
+	        		 	<span>Log in with Google</span>
+	        		</a>
+	        		<div class="or-div">
+	        			<div class="row-bg"></div>
+	        			<span>or</span>
+	        		</div>
+	        		<a href="" class="mail-button modal-btn clearfix">
+	        			<i class="fa fa-envelope-o"></i>
+	        		 	<span>Sign Up with Mail</span>
+	        		</a>
+	        		<p>By signing up, I agree to Airbnb’s <a href="">Terms of Service</a>, <a href="">Payments Terms of Service</a>, <a href="">Privacy Policy</a>, <a href="">Guest Refund Policy</a> , and <a href="">Host Guarantee Terms</a>.</p>
+	        		<div class="modal-footer">
+	        			<p> Already an Airbnb member? <a href="">Log in</a></p>
+	        		</div>
+	      		</div>
+	    	</div>
+	  	</div>
+	</div>
+
+	<!-- modal log in-->
+	<div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	  	<div class="modal-dialog" role="document">
+	    	<div class="modal-content">
+	      		<div class="modal-body">
+	        		<a href="" class="face-button modal-btn clearfix">
+	        			<i class="fa fa-facebook"></i>
+	        			<span>Log in with Facebook</span>
+	        		</a>
+	        		<a href="" class="google-button modal-btn clearfix">
+	        			<i class=""></i>
+	        		 	<span>Log in with Google</span>
+	        		</a>
+	        		<div class="or-div">
+	        			<div class="row-bg"></div>
+	        			<span>or</span>
+	        		</div>
+	        		<form>
+	        			<div class="form-group">
+	        				<input type="text" placeholder="Email Address" class="mail">
+	        			</div>
+	        			<div class="form-group">
+	        				<input type="text" placeholder="Password" class="password">
+	        			</div>
+	        			<div class="form-group">
+        					<div class="checkbox-style">
+        						<input value="1" id="checkbox2" type="checkbox" name="">
+        						<label></label>
+        					</div>
+        					<label for="checkbox2" class="checkbox-label">Remember me</label>
+        					<a href="" class="cant-login">Can't login?</a>
+        				</div>
+        				<button class="modal-btn login-btn">Log In</button>
+	        		</form>
+	        		<div class="modal-footer">
+	        			<p> Don’t have an account? <a href="">Sign up</a></p>
+	        		</div>
+	      		</div>
+	    	</div>
+	  	</div>
+	</div>
+</body>
+</html>

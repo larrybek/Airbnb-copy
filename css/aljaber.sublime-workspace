@@ -1,0 +1,1179 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"main",
+				"main-navigation"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ove",
+				"overflow"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"pan",
+				"panel-standard-post"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"ente",
+				"entry-title"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"key",
+				"keydown"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"col",
+				"col-box2"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"to",
+				"toInsert"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"img",
+				"background-image"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"Se",
+				"select	Tag"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"գոր",
+				"գործունեությունից՝"
+			],
+			[
+				"n",
+				"inside"
+			],
+			[
+				"D",
+				"display"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"հնարավո",
+				"հնարավորություն"
+			],
+			[
+				"Օգտա",
+				"Օգտատերերի"
+			],
+			[
+				"Վճար",
+				"Վճարումներ"
+			],
+			[
+				"Մանրամասն",
+				"Մանրամասներ"
+			],
+			[
+				"js",
+				"jsonImportObject"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"su",
+				"sub	Tag"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"alert",
+				"alert-danger"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"panel",
+				"panel-header"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"content",
+				"content-widget"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"St",
+				"strong	Tag"
+			],
+			[
+				"section",
+				"section-design2"
+			],
+			[
+				"moda",
+				"modal-header"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"page",
+				"page-main"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"none",
+				"none"
+			],
+			[
+				"rb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"bar",
+				"background-size"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"trip",
+				"tripbox-body"
+			],
+			[
+				"suc",
+				"success"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"mr",
+				"margin-top"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"MAR",
+				"margin-right"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"il",
+				"inline-block"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"hi",
+				"hidden-info"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"add",
+				"add-icon"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"footer",
+				"footer-logo"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"selec",
+				"select2-container"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"rgb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"mAR",
+				"margin-top"
+			],
+			[
+				"Փա",
+				"Փաթեթներ"
+			],
+			[
+				"համակա",
+				"համակարգի"
+			],
+			[
+				"ուղա",
+				"ուղարկվել"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"im",
+				"important"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Applications/XAMPP/xamppfiles/htdocs/omar/www/careers.html",
+			"settings":
+			{
+				"buffer_size": 4415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "screen.less",
+			"settings":
+			{
+				"buffer_size": 8858,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "@import url(\"function.less\");\n\nbody{\n	background-color: #000;\n}\n.wrapper{\n	background-color: #000;\n/* Big banner\n-------------------------------------------------- */\n	.section-inner-banner{\n		background-image: url('../img/banner.jpg');\n		background-size: cover;\n		height: 320px;\n		position: relative;\n		border-bottom: 50px solid #a99a71;\n	}\n/* Section info\n-------------------------------------------------- */\n	.section-inner-container{\n		padding-top: 30px;\n		padding-bottom: 50px;\n		.inner-menu{\n			list-style-type: none;\n			padding: 0 30px 0 0;\n			li{\n				.transition(all ease 500ms);\n				a{	\n					line-height: 50px;\n					display: block;\n					font-size: 18px;\n					color: #fff;\n					padding-left: 10px;\n					font-weight: 300;\n				}\n				&.active, &:hover{\n					background-color: #a99a71;\n					.border-radius(1px);\n					a{\n						text-decoration: none;\n					}\n					ul{\n						display: block;\n					}\n				}\n				ul{\n					list-style-type: none;\n					padding: 0 0 10px;\n					text-decoration: none;\n					display: none;\n					li{\n						position: relative;\n						a{\n							padding: 10px 0 10px 15px;\n							line-height: 1.2;\n							display: block;\n							font-size: 14px;\n							color: #fff;\n							font-weight: 100;\n						}\n						&.active, &:hover{\n							background-color: #cdc4aa;\n						}\n					}\n				}\n			}\n		}\n		.content{\n			h2, h3, h4, p{\n				color: #fff;\n			}\n			h2{\n				margin-top: 0;\n				font-size: 28px;\n				padding-bottom: 20px;\n				font-weight: 300;\n				border-bottom: 2px solid #484848;\n				text-transform: uppercase\n			}\n			h3{\n				margin-top: 30px;\n				font-size: 18px;\n				margin-bottom: 30px;\n			}\n			h4{\n				margin-top: 0;\n				font-size: 15px;\n				font-weight: 700;\n			}\n			p{\n				font-weight: 100;\n				font-size: 15px;\n				margin-bottom: 20px;\n				b{\n					font-weight: 700;\n				}\n			}\n			ul{\n				color: #fff;\n				list-style-type: none;\n				padding: 0;\n				&.listing{\n					list-style-type: initial;\n					padding-left: 20px;\n				}\n				&.\n			}\n			img{\n				padding-left: 10px;\n			}\n		}\n	}\n}\n/* Responsiveness\n-------------------------------------------------- */\n@media (min-width: 1200px){}\n@media (max-width: 992px) {}\n@media (max-width: 767px) {\n	.mega-wrapper .wrapper{\n		padding-top: 0;\n	}\n	.wrapper{\n		.section-inner-container{\n			padding: 30px 20px 50px;\n		}\n	}\n}\n@media (max-width: 480px) {}",
+			"file": "guest.inner.less",
+			"file_size": 2298,
+			"file_write_time": 1450881902000000,
+			"settings":
+			{
+				"buffer_size": 2304,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/htdocs/ubicrosscom/themes/frontend/css/screen.less",
+		"/Volumes/htdocs/ubicrosscom/themes/frontend/js/scripts.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/omar/www/css/function.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/omar/www/css/bootstrap.min.css",
+		"/Volumes/htdocs/tojeero/protected/modules/lsadmin/views/advertisement/index.php",
+		"/Volumes/htdocs/tojeero/themes/frontend/js/scripts.js",
+		"/Volumes/htdocs/ubicrossme/themes/admin/js/jquery.nestable.js",
+		"/Volumes/htdocs/ubicrossme/themes/admin/js/store.menu.js",
+		"/Volumes/htdocs/ubicrossme/themes/admin/css/screen.less",
+		"/Volumes/htdocs/ubicrossme/themes/admin/css/jquery.nestable.css",
+		"/Volumes/htdocs/ubicrossme/protected/modules/admin/views/product/view.php",
+		"/Volumes/htdocs/ubicrossme/protected/modules/admin/views/product/index.php",
+		"/Volumes/htdocs/ubicrossme/protected/modules/admin/views/store/pages.php",
+		"/Volumes/htdocs/ubicrossme/protected/modules/admin/views/order/view.php",
+		"/Volumes/htdocs/ubicrossme/protected/modules/admin/views/order/index.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross/index.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross/archive.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross/content-single.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross/content-featured.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross/content.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross/lib/core.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross/style.css",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross/header.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross/page.php",
+		"/Volumes/htdocs/ubicrosscom/blog/.htaccess",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross/single.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-includes/query.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross/content-status.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-includes/admin-bar.php",
+		"/Volumes/htdocs/tojeero/protected/modules/lsadmin/views/product/index.php",
+		"/Volumes/htdocs/tojeero/protected/modules/lsadmin/views/store/index.php",
+		"/Volumes/htdocs/tojeero/protected/modules/lsadmin/views/store/view.php",
+		"/Volumes/htdocs/tojeero/themes/lsadmin/css/store.view.less",
+		"/Volumes/htdocs/tojeero/protected/modules/lsadmin/views/product/view.php",
+		"/Volumes/htdocs/tojeero/themes/lsadmin/css/product.view.less",
+		"/Volumes/htdocs/tojeero/themes/lsadmin/css/advertisement.index.less",
+		"/Volumes/htdocs/tojeero/themes/lsadmin/css/advertisement.index.css",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/style.css",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/content-featured.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/header.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/lib/core.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/index.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/content-status.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/content-noresults.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/content-link.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/content-aside.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/comments.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/author-bio.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/archive.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/archive-header.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/404.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/content-404.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/content-image.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/content-page.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/content-quote.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/content.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/footer.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/single.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/sidebar.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/sidebar-primary.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/searchform.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/page.php",
+		"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy/image.php",
+		"/Volumes/htdocs/ubicrosscom/protected/modules/admin/views/layouts/main.php",
+		"/Volumes/htdocs/ubicrosscom/protected/views/layouts/main.php",
+		"/Volumes/htdocs/ubicrossme/protected/modules/admin/views/customer/index.php",
+		"/Volumes/htdocs/pepsi/protected/views/guest/gallery.php",
+		"/Volumes/htdocs/ubicrosscom/protected/views/layouts/_header.php",
+		"/Volumes/htdocs/ubicrosscom/themes/frontend/css/guest.store.less",
+		"/Volumes/htdocs/araqich_client/themes/backend/css/araqich.css",
+		"/Volumes/htdocs/araqich_client/themes/backend/css/screen.less",
+		"/Volumes/htdocs/ubicrosscom/protected/views/guest/store.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fashion-ecommerce/www2/index1.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/fashion-ecommerce/www2/css/jquery.bxslider.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/fashion-ecommerce/www2/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/fashion-ecommerce/www/css/screen.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/fashion-ecommerce/www/index.html",
+		"/Volumes/htdocs/tojeero/protected/views/layouts/main.php",
+		"/Volumes/htdocs/tojeero/themes/frontend/css/screen.less",
+		"/Volumes/htdocs/ubicrosscom/protected/views/guest/index.php",
+		"/Volumes/htdocs/tojeero/protected/views/layouts/_header.php",
+		"/Volumes/htdocs/ubicrossme/themes/admin/css/product.create.less",
+		"/Volumes/htdocs/ubicrossme/protected/modules/admin/views/order/create.php",
+		"/Volumes/htdocs/ubicrosscom/themes/frontend/js/bootstrap.min.js",
+		"/Volumes/htdocs/ubicrosscom/themes/admin/css/screen.less",
+		"/Volumes/htdocs/pepsi/protected/views/layouts/main.php",
+		"/Volumes/htdocs/pepsi/protected/components/StaticMethods.php",
+		"/Volumes/htdocs/pepsi/themes/frontend/js/scripts.js",
+		"/Volumes/htdocs/pepsi/protected/views/layouts/_footer.php",
+		"/Volumes/htdocs/pepsi/protected/views/layouts/_header.php",
+		"/Volumes/htdocs/pepsi/themes/frontend/css/guest.promomap.less",
+		"/Volumes/htdocs/pepsi/protected/views/guest/promomap.php",
+		"/Volumes/htdocs/pepsi/themes/frontend/css/guest.form.less",
+		"/Volumes/htdocs/pepsi/themes/frontend/css/bootstrap.min.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/loans/www/assets/JS/viewerjsmoz/web/viewer.css",
+		"/Volumes/htdocs/pepsi/themes/frontend/css/fonts.less",
+		"/Volumes/htdocs/pepsi/themes/frontend/js/jquery-canvas-sparkles.js",
+		"/Volumes/htdocs/pepsi/themes/frontend/js/snowstorm.js",
+		"/Volumes/htdocs/pepsi/protected/views/guest/promo.php",
+		"/Volumes/htdocs/pepsi/themes/frontend/css/guest.gameinfo.less",
+		"/Volumes/htdocs/pepsi/themes/frontend/css/guest.gallery.less",
+		"/Volumes/htdocs/pepsi/themes/frontend/css/guest.promo.less",
+		"/Volumes/htdocs/pepsi/themes/frontend/css/screen.css",
+		"/Volumes/htdocs/pepsi/protected/views/guest/game.php",
+		"/Volumes/htdocs/pepsi/themes/frontend/css/guest.game.less",
+		"/Volumes/htdocs/pepsi/themes/frontend/css/screen.less",
+		"/Volumes/htdocs/pepsi/protected/views/guest/form.php",
+		"/Volumes/htdocs-1/pepsi/protected/views/guest/promo.php",
+		"/Volumes/htdocs-1/pepsi/themes/frontend/css/screen.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/omar/www/index.html",
+		"/Volumes/htdocs-1/pepsi/themes/frontend/css/guest.gameinfo.less",
+		"/Volumes/htdocs-1/pepsi/themes/frontend/css/guest.promomap.less",
+		"/Volumes/htdocs-1/pepsi/protected/views/guest/game.php",
+		"/Volumes/htdocs-1/tojeero/protected/views/service/error.php",
+		"/Volumes/htdocs-1/tojero/protected/views/service/error.php",
+		"/Volumes/htdocs-1/tojero/protected/views/layouts/main.php",
+		"/Volumes/htdocs-1/tojero/protected/views/guest/index.php",
+		"/Volumes/htdocs-1/tojero/protected/views/guest/web.php",
+		"/Volumes/htdocs-1/tojero/themes/frontend/css/smoothproducts.css",
+		"/Volumes/htdocs-1/tojero/themes/frontend/js/scripts.js",
+		"/Volumes/htdocs-1/tojero/protected/views/guest/view.php",
+		"/Volumes/htdocs-1/tojero/protected/views/guest/viewstore.php",
+		"/Volumes/htdocs-1/tojero/themes/frontend/css/guest.view.less",
+		"/Volumes/htdocs-1/tojero/themes/frontend/css/ar.less",
+		"/Volumes/htdocs-1/tojero/themes/frontend/css/ekko-lightbox.min.css",
+		"/Volumes/htdocs-1/tojero/themes/frontend/js/ekko-lightbox.min.js",
+		"/Volumes/htdocs-1/tojero/themes/frontend/css/screen.less",
+		"/Volumes/htdocs-1/ubicrosscom/themes/frontend/css/screen.less"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/htdocs/ubicrossme/themes/admin",
+			"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross",
+			"/Volumes/htdocs/ubicrosscom/blog",
+			"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/ubicross",
+			"/Volumes/htdocs/ubicrosscom/blog/wp-content/themes/icy",
+			"/Volumes/htdocs/pepsi/protected",
+			"/Volumes/htdocs/ubicrossme/protected/modules/admin/views/product",
+			"/Volumes/htdocs/ubicrossme/protected/modules/admin/views",
+			"/Volumes/htdocs/tojero/themes/frontend/js",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/views/reporting",
+			"/Volumes/htdocs/araqich_client/themes/admin/backend/css/fonts",
+			"/Volumes/htdocs/araqich_client/themes",
+			"/Applications/XAMPP/xamppfiles/htdocs/burnett/burnett",
+			"/Applications/XAMPP/xamppfiles/htdocs/dota/trunk/CaptainJackWeb/CaptainJackWebSite/views",
+			"/Applications/XAMPP/xamppfiles/htdocs/loans/www/assets",
+			"/Volumes/htdocs/cargo/protected/views",
+			"/Volumes/htdocs/cargo/protected/modules",
+			"/Applications/XAMPP/xamppfiles/htdocs/hoststones/wp-content/themes/livingstones",
+			"/Volumes/htdocs/dev.tourist/themes/frontend/outerpages/js",
+			"/Volumes/htdocs/dev.tourist/themes/frontend/js",
+			"/Volumes/htdocs/dev.tourist/themes/frontend",
+			"/Volumes/htdocs/dev.tourist/themes/frontend/outerpages",
+			"/Volumes/htdocs/dev.tourist/protected/extensions/tstranslation/assets/images/flags",
+			"/Volumes/htdocs/dev.tourist/protected",
+			"/Applications/XAMPP/xamppfiles/htdocs/14cargo/www/css/fonts",
+			"/Volumes/htdocs/dev.tourist/themes/frontend/outerpages/js",
+			"/Volumes/htdocs/dev.tourist/themes/frontend/outerpages",
+			"/Volumes/htdocs/dev.tourist/protected/views/request",
+			"/Volumes/htdocs/dev.tourist/themes/frontend",
+			"/Volumes/htdocs/dev.tourist/blog/wp-content/themes/icy",
+			"/Volumes/htdocs/dev.tourist/protected/framework/views",
+			"/Volumes/htdocs/dev.tourist/protected/views",
+			"/Users/larry/Desktop/html/market",
+			"/Volumes/htdocs/dev.tourist/blog/wp-content/themes/icy",
+			"/Volumes/htdocs/dev.tourist/protected/views",
+			"/Volumes/htdocs/dev.tourist/protected/views/guest",
+			"/Volumes/htdocs-1/dev.tourist/themes/frontend/outerpages/js",
+			"/Volumes/htdocs-1/dev.tourist/protected/views",
+			"/Volumes/htdocs-1/dev.tourist/protected",
+			"/Volumes/htdocs-1/dev.tourist/protected/views",
+			"/Volumes/htdocs-1/dev.tourist/protected/framework",
+			"/Volumes/htdocs/dev.tourist/blog/wp-content/themes",
+			"/Users/larry/Desktop/html/market",
+			"/Users/larry/Desktop/html/market/css",
+			"/Users/larry/Desktop/html/market/js",
+			"/Users/larry/Desktop/html/market",
+			"/Volumes/htdocs/dev.adlooker/themes/frontend/css",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/views/invoice",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/dev.adlooker/protected/modules/adbackoffice",
+			"/Volumes/htdocs/dev.adlooker/protected/modules/adbackoffice/views",
+			"/Volumes/htdocs/dev.adlooker/protected/modules/adbackoffice",
+			"/Volumes/htdocs/dev.adlooker/protected/modules/adbackoffice/views",
+			"/Volumes/htdocs/araqich_client/themes/frontend/css/fonts",
+			"/Volumes/htdocs/araqich_client/framework/messages/hy",
+			"/Volumes/htdocs/araqich_client/protected",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/views/default",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/themes/backend/js",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/controllers",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/components",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/modules",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/views",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/views",
+			"/Volumes/htdocs/araqich_client/protected/views",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/views",
+			"/Volumes/htdocs/araqich_client/protected/views",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/views",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/views",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/views",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/views/route",
+			"/Volumes/htdocs/araqich_client/protected/modules",
+			"/Volumes/htdocs/araqich_client/protected",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/views",
+			"/Volumes/htdocs/araqich_client/protected",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/themes/frontend/css",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/views/ajax",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/controllers",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/components",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/models",
+			"/Volumes/htdocs/araqich_client/themes/general/frontend/css",
+			"/Volumes/htdocs/araqich_client/themes/general/backend/css",
+			"/Volumes/htdocs/araqich_client/images",
+			"/Volumes/htdocs/araqich_client/protected/extensions/tstranslation/widgets",
+			"/Volumes/htdocs/araqich_client/protected/extensions/tstranslation/models",
+			"/Volumes/htdocs/araqich_client/protected/extensions/tstranslation/controllers",
+			"/Volumes/htdocs/araqich_client/protected/extensions/tstranslation/components",
+			"/Volumes/htdocs/araqich_client/protected/extensions/tstranslation/widgets",
+			"/Volumes/htdocs/araqich_client/protected/extensions/tstranslation/models",
+			"/Volumes/htdocs/araqich_client/protected/extensions/tstranslation/controllers",
+			"/Volumes/htdocs/araqich_client/protected/extensions/tstranslation/components",
+			"/Volumes/htdocs/araqich_client/protected/extensions/tstranslation",
+			"/Volumes/htdocs/araqich_client/protected",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/components",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/components",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/modules",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/models",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/components",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/controllers",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/components",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/components",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin/components",
+			"/Volumes/htdocs/araqich_client/protected/modules/admin",
+			"/Volumes/htdocs/araqich_client/themes/admin/backend/css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"main-navigation-menu",
+			"dropdown",
+			"1170",
+			"margin",
+			"cursor:",
+			"2",
+			"footer_soc_icons",
+			"footer_child_soc_icon",
+			"social",
+			"<?",
+			".col-sm-12 .footer_child_soc_icon",
+			".col-sm-12 .footer_soc_icons",
+			"footer_soc_icons",
+			"body",
+			".footer_soc",
+			"ww1_post_content_content",
+			"ww1_post_content_content();",
+			"bread",
+			"wwl_thumbnail",
+			"ww1_post_content_content()",
+			"bre",
+			"shadow-widget",
+			"shadow-box",
+			"shadow",
+			"breadcrumb",
+			".widget_search input",
+			".widget_search.panel",
+			"entry-info",
+			".col-sm-6 h2.entry-title, .col-sm-12 .panel-featured h2.entry-title",
+			".col-sm-6 h2.entry-title",
+			"wwl_before_post_title",
+			"wwl_after_post_content",
+			".col-sm-6 h2.entry-title",
+			"category-box",
+			"ww1_post_content_content",
+			"#575757",
+			".post-thumbnail",
+			"div.col-sm-12 .panel-featured .entry-content a",
+			".yikes-mailchimp-container button.btn",
+			"entry-content",
+			".yikes-mailchimp-container button",
+			".col-sm-6 .entry-content",
+			".col-sm-6 .entry-content ",
+			"query_posts",
+			"yikes",
+			"body",
+			"<style type=\"text/css\" media=\"screen\">\n	html { margin-top: 32px !important; }\n	* html body { margin-top: 32px !important; }\n	@media screen and ( max-width: 782px ) {\n		html { margin-top: 46px !important; }\n		* html body { margin-top: 46px !important; }\n	}\n</style>",
+			"yikes",
+			"yikes_easy_mc_widget",
+			"pre",
+			"#search",
+			".widget_recent_entries ul li a",
+			"recent-posts-2",
+			"#resent",
+			"html",
+			"32",
+			"32px !important",
+			"html",
+			"body",
+			"margin-bottom",
+			"img",
+			"shadow-widget",
+			"shadow",
+			"32px !important",
+			"div.col-sm-6 .entry-content a",
+			".col-sm-6 h2.entry-title",
+			"ww1_post_content_content",
+			"wwl_before_post",
+			"table-add-group",
+			"editable",
+			".pull-in",
+			"col-box",
+			"modal",
+			"loans-file-to-view",
+			"img",
+			">",
+			"bootstrap.min.js",
+			"registerPageScripts",
+			"fbsharediv",
+			"login-with-facebook",
+			"click",
+			"loans-file-to-view",
+			"resize",
+			"$",
+			"page",
+			"df",
+			"page-",
+			"page-aside-switcher",
+			"loans-file-to-view",
+			"resize",
+			".openFile",
+			".openFile::before",
+			".toolbarButton.openFile::before, .secondaryToolbarButton.openFile::before",
+			"openFile",
+			"overlay-of-lights",
+			"img",
+			".border",
+			"border-box",
+			"game-page-box",
+			"game-page-box ",
+			"soc-icons",
+			"border-box",
+			"mobile-height",
+			".background",
+			"background",
+			".background",
+			"background",
+			".text",
+			"text",
+			"confirm-btn",
+			"33",
+			"width: calc(33% - 6.67px);",
+			"    width: calc(33% - 6.67px);\n    margin-right: 10px",
+			"next-arro",
+			"next-arrow",
+			"gameinfo-page",
+			"1170px",
+			"1180",
+			"border-bo",
+			"map",
+			"handleDragEnd",
+			"game-box",
+			"price-box",
+			"error",
+			".bx-pager",
+			".image-mobile-part",
+			"panel-title",
+			"image-part"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"icone",
+			".icons",
+			"araqich",
+			"Araqich"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Applications/XAMPP/xamppfiles/htdocs/omar/www/careers.html",
+					"settings":
+					{
+						"buffer_size": 4415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1031.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "screen.less",
+					"settings":
+					{
+						"buffer_size": 8858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "guest.inner.less",
+					"settings":
+					{
+						"buffer_size": 2304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1944,
+								1944
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1164.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"sitemap.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true
+}
